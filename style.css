@@ -1,0 +1,67 @@
+.html{
+    scroll-behavior: smooth;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+.corprimaria{
+    background-color: rgb(65, 183, 226);
+}
+.corsecundaria{
+    background-color: rgb(32, 32, 32);
+}
+.p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black !important;
+}
+.icones{
+    padding-left: 5px;
+}
+
+.titulosbrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700px;
+    color: white;
+}
+.titulosverdes{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700px;
+    color:rgb(65, 183, 226);
+}
+.textobranco{
+    color: white !important;
+}
+.fotoperfil{
+    
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.escola{
+    background-color:#cb1e40 ;
+    color: white!important;
+    border-radius: 3px;
+    font: bolder;
+}
+.col-md-6{
+    margin-left: 25%;
+}
+
+.textofooter{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.contato{
+    padding-bottom: 60px;
+    margin-bottom:0px;
+}
